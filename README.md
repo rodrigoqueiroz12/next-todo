@@ -16,7 +16,7 @@
 
 Users should be able to:
 
-- Create/Delete the tasks and them in Browser local storage
+- Create/Delete tasks and save them in the browser's local storage.
 
 ### Screenshot
 
