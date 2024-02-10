@@ -1,7 +1,5 @@
 # Next To Do
 
-This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -9,7 +7,6 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -29,11 +26,12 @@ Users should be able to:
 
 ### Built with
 
-- [React.js](https://vuejs.org/) - JS library
-- [Tailwind CSS](https://tailwindcss.com/) - For styles
+- [TypeScript](https://www.typescriptlang.org/) - Typed programming language that builds on JavaScript
+- [React.js](https://vuejs.org/) - JavaScript Library
+- [Tailwind CSS](https://tailwindcss.com/) - CSS Mobile-First Framework
 - [Radix UI](https://www.radix-vue.com/) - Unstyled, accessible components for building high‑quality web apps in Vue.
-- [Sonner](https://www.radix-vue.com/) - Unstyled, accessible components for building high‑quality web apps in Vue.
-- [Next.js](https://tailwindcss.com/) - For styles
+- [Sonner](https://www.radix-vue.com/) - Library for building high‑quality toast components.
+- [Next.js](https://tailwindcss.com/) - React.js framework
 
 ### Useful resources
 
