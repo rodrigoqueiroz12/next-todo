@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js To Do
 
-## Getting Started
+This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-First, run the development server:
+## Table of contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### The challenge
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Users should be able to:
 
-## Learn More
+- Create/Delete the tasks and them in Browser local storage
 
-To learn more about Next.js, take a look at the following resources:
+### Screenshot
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![](./.github/preview.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## My process
 
-## Deploy on Vercel
+### Built with
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [React.js](https://vuejs.org/) - JS library
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
+- [Radix UI](https://www.radix-vue.com/) - Unstyled, accessible components for building high‑quality web apps in Vue.
+- [Sonner](https://www.radix-vue.com/) - Unstyled, accessible components for building high‑quality web apps in Vue.
+- [Next.js](https://tailwindcss.com/) - For styles
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Useful resources
+
+- [Radix UI](https://www.radix-ui.com/) - This is an amazing component library which helped me create accessible components. I'd recommend it to anyone still use this library.
+- [Sooner](https://sonner.emilkowal.ski/) - This is an amazing component library which helped me create easy to customize toasts. I'd recommend it to anyone still use this library.
+
+## Author
+
+- GitHub - [@rodrigoqueiroz12](https://github.com/rodrigoqueiroz12)
+- LinkedIn - [@rodrigoqueiroz](www.linkedin.com/in/rodrigo-queiroz-a113a9212)
