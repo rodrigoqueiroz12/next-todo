@@ -27,11 +27,11 @@ Users should be able to:
 ### Built with
 
 - [TypeScript](https://www.typescriptlang.org/) - Typed programming language that builds on JavaScript
-- [React.js](https://vuejs.org/) - JavaScript Library
+- [React.js](https://react.dev/) - JavaScript Library
 - [Tailwind CSS](https://tailwindcss.com/) - CSS Mobile-First Framework
 - [Radix UI](https://www.radix-vue.com/) - Unstyled, accessible components for building high‑quality web apps in Vue.
-- [Sonner](https://www.radix-vue.com/) - Library for building high‑quality toast components.
-- [Next.js](https://tailwindcss.com/) - React.js framework
+- [Sonner](https://sonner.emilkowal.ski/) - Library for building high‑quality toast components.
+- [Next.js](https://nextjs.org/) - React.js framework
 
 ### Useful resources
 
